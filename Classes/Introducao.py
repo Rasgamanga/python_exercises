@@ -1,3 +1,7 @@
+'''def __str__(self): # deixa mais bonitin a forma de saida
+        return "{} {} ({}): {}".format(self.author[1], self.author[0], self.year, self.title) 
+'''
+
 class Books:
     def __init__(self, title, author, pub_year, ID):
         self.title = title
