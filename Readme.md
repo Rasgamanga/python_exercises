@@ -1,1 +1,1 @@
-Estou praticando (talvez neste momento)
+practicing
